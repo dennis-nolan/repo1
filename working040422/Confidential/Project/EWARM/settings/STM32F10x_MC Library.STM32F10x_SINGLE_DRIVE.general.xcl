@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0_3\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0_3\arm\bin\armsim2.dll" 
+
+"C:\Users\jeana\Documents\GitHub\SW132-ST-Steering-Motor-App\spd-rev3\Confidential\Project\EWARM\STM32F10x_SINGLE_DRIVE\Exe\STM32F10x_MC Library.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0_3\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0_3\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+
+
+

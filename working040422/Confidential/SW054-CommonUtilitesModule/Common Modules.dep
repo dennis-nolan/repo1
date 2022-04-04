@@ -1,0 +1,1733 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>877171265</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ThreadingSource.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\AllTests.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\TimersSource.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\CommonUISource.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\MemoryMgmtSource.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\TimersSource.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\ThreadingSource.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\CommonUISource.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ThreadingSource.o</file>
+      <file>$PROJ_DIR$\Debug\Exe\Common Modules.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\CircularBufferSource.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\MemoryMgmtSource.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\CommonUISource.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\TimersSource.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\CircularBufferSource.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\CallbackTestHelper.o</file>
+      <file>$PROJ_DIR$\inc\CircularBufferHeader.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\RawCircularBufferSource.pbi</file>
+      <file>$PROJ_DIR$\inc\MemoryMgmtHeader.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\RawCircularBufferSource.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\ThreadingTest.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\src\MemoryMgmtSource.c</file>
+      <file>$PROJ_DIR$\src\CircularBufferSource.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\ThreadingTest.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\AllTests.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\CallbackTestHelper.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\TimersTest.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\TimersTest.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Common Modules.pbd</file>
+      <file>$PROJ_DIR$\inc\CommonUIHeader.h</file>
+      <file>$PROJ_DIR$\inc\RawCircularBufferHeader.h</file>
+      <file>$PROJ_DIR$\inc\commonTypes.h</file>
+      <file>$PROJ_DIR$\inc\ThreadingHeader.h</file>
+      <file>$PROJ_DIR$\inc\TimersHeader.h</file>
+      <file>$PROJ_DIR$\src\CommonUISource.c</file>
+      <file>$PROJ_DIR$\src\RawCircularBufferSource.c</file>
+      <file>$PROJ_DIR$\src\ThreadingSource.c</file>
+      <file>$PROJ_DIR$\src\TimersSource.c</file>
+      <file>$PROJ_DIR$\UT\AllTests.cpp</file>
+      <file>$PROJ_DIR$\UT\CircularBufferTest.cpp</file>
+      <file>$PROJ_DIR$\UT\CommonUITest_Buttons.cpp</file>
+      <file>$PROJ_DIR$\UT\CommonUITest_Leds.cpp</file>
+      <file>$PROJ_DIR$\UT\MemoryMgmtTest.cpp</file>
+      <file>$PROJ_DIR$\UT\RawCircularBufferTest.cpp</file>
+      <file>$PROJ_DIR$\UT\ThreadingTest.cpp</file>
+      <file>$PROJ_DIR$\UT\TimersTest.cpp</file>
+      <file>$PROJ_DIR$\UT\UT Support\CallbackTestHelper.c</file>
+      <file>$PROJ_DIR$\UT\UT Support\CallbackTestHelper.h</file>
+      <file>$PROJ_DIR$\UT\UT Support\UIMocks.c</file>
+      <file>$PROJ_DIR$\UT\UT Support\UIMocks.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\RawCircularBufferSource.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\src\MemoryMgmtSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12 25 8 60 29 2 19 0 27 24</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 29 27 0 25 19 2 60 12 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\CircularBufferSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 24 27 25 8 60 29 2 19 0 22 40 4</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25 40 8 60 4 22 27 19 0 29 2 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>IARCHIVE</name>
+          <file> 14</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\CommonUISource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 38 40 4 25 8 60 29 2 19 0 42 41</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29 40 25 8 41 60 0 42 2 38 4 19</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\RawCircularBufferSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 59</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12 25 8 60 29 2 19 0 27 39 40 4</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27 40 25 8 39 19 12 60 0 29 2 4</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\ThreadingSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 41 40 4 25 8 60 29 2 19 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0 4 29 8 40 25 19 2 60 41</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\TimersSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 5</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 42 41 40 4 25 8 60 29 2 19 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0 25 60 29 8 41 2 40 4 19 42</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\AllTests.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\ThreadingTest.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41 40 4 25 8 60 29 2 19 0</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\TimersTest.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 41 40 4 25 8 60 29 2 19 0</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\UT Support\CallbackTestHelper.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+      </outputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\CommonUITest.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\AllTests.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\CircularBufferTest.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\MemoryMgmtTest.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\ThreadingTest.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\TimersTest.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\UT Support\CallbackTestHelper.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\UT Support\UIMocks.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Debug M4</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\Debug M4\Obj\CommonUISource.o</file>
+      <file>$PROJ_DIR$\Debug M4\Obj\RawCircularBufferSource.o</file>
+      <file>$PROJ_DIR$\Debug M4\Exe\Common Modules.a</file>
+      <file>$PROJ_DIR$\Debug M4\Obj\ThreadingSource.o</file>
+      <file>$PROJ_DIR$\Debug M4\Obj\TimersSource.o</file>
+      <file>$PROJ_DIR$\Debug M4\Obj\CommonUISource.pbi</file>
+      <file>$PROJ_DIR$\Debug M4\Obj\Common Modules.pbd</file>
+      <file>$PROJ_DIR$\Debug M4\Obj\TimersSource.pbi</file>
+      <file>$PROJ_DIR$\Debug M4\Obj\ThreadingSource.pbi</file>
+      <file>$PROJ_DIR$\Debug M4\Obj\RawCircularBufferSource.pbi</file>
+      <file>$PROJ_DIR$\Debug M4\Obj\CommonUISource.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug M4\Obj\TimersSource.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug M4\Obj\ThreadingSource.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug M4\Obj\RawCircularBufferSource.__cstat.et</file>
+      <file>$PROJ_DIR$\inc\CommonUIHeader.h</file>
+      <file>$PROJ_DIR$\inc\RawCircularBufferHeader.h</file>
+      <file>$PROJ_DIR$\inc\commonTypes.h</file>
+      <file>$PROJ_DIR$\inc\ThreadingHeader.h</file>
+      <file>$PROJ_DIR$\inc\TimersHeader.h</file>
+      <file>$PROJ_DIR$\src\CommonUISource.c</file>
+      <file>$PROJ_DIR$\src\RawCircularBufferSource.c</file>
+      <file>$PROJ_DIR$\src\ThreadingSource.c</file>
+      <file>$PROJ_DIR$\src\TimersSource.c</file>
+      <file>$PROJ_DIR$\UT\AllTests.cpp</file>
+      <file>$PROJ_DIR$\UT\CircularBufferTest.cpp</file>
+      <file>$PROJ_DIR$\UT\CommonUITest_Buttons.cpp</file>
+      <file>$PROJ_DIR$\UT\CommonUITest_Leds.cpp</file>
+      <file>$PROJ_DIR$\UT\MemoryMgmtTest.cpp</file>
+      <file>$PROJ_DIR$\UT\RawCircularBufferTest.cpp</file>
+      <file>$PROJ_DIR$\UT\ThreadingTest.cpp</file>
+      <file>$PROJ_DIR$\UT\TimersTest.cpp</file>
+      <file>$PROJ_DIR$\UT\UT Support\CallbackTestHelper.c</file>
+      <file>$PROJ_DIR$\UT\UT Support\CallbackTestHelper.h</file>
+      <file>$PROJ_DIR$\UT\UT Support\UIMocks.c</file>
+      <file>$PROJ_DIR$\UT\UT Support\UIMocks.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>IARCHIVE</name>
+          <file> 11</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\CommonUISource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 19</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25 1 27 6 44 0 8 3 26 23 2 5</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\RawCircularBufferSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7 25 6 3 24 5 4 44 0 8 1 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\ThreadingSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26 25 2 6 3 44 8 1 5 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0 2 8 3 25 6 5 1 44 26</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\TimersSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27 26 25 2 6 3 44 8 1 5 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 5 2 25 3 27 26 44 0 8 1</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\inc\CircularBufferHeader.h</file>
+      <file>$PROJ_DIR$\inc\MemoryMgmtHeader.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\src\MemoryMgmtSource.c</file>
+      <file>$PROJ_DIR$\src\CircularBufferSource.c</file>
+      <file>$PROJ_DIR$\Release\Obj\TimersTest.o</file>
+      <file>$PROJ_DIR$\Release\Obj\AllTests.o</file>
+      <file>$PROJ_DIR$\Release\Obj\AllTests.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\MemoryMgmtSource.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\CircularBufferSource.o</file>
+      <file>$PROJ_DIR$\Release\Obj\MemoryMgmtSource.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\CircularBufferSource.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\RawCircularBufferSource.pbi</file>
+      <file>$PROJ_DIR$\Release\Exe\Common Modules.a</file>
+      <file>$PROJ_DIR$\Release\Obj\CommonUISource.o</file>
+      <file>$PROJ_DIR$\Release\Obj\TimersSource.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\TimersSource.o</file>
+      <file>$PROJ_DIR$\Release\Obj\CommonUISource.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\CircularBufferSource.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\ThreadingSource.o</file>
+      <file>$PROJ_DIR$\Release\Obj\CommonUISource.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\ThreadingSource.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\ThreadingSource.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\RawCircularBufferSource.o</file>
+      <file>$PROJ_DIR$\Release\Obj\TimersSource.__cstat.et</file>
+      <file>$PROJ_DIR$\Release\Obj\CallbackTestHelper.o</file>
+      <file>$PROJ_DIR$\Release\Obj\TimersTest.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\CallbackTestHelper.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\ThreadingTest.o</file>
+      <file>$PROJ_DIR$\Release\Obj\ThreadingTest.pbi</file>
+      <file>$PROJ_DIR$\Release\Obj\RawCircularBufferSource.__cstat.et</file>
+      <file>$PROJ_DIR$\inc\CommonUIHeader.h</file>
+      <file>$PROJ_DIR$\inc\RawCircularBufferHeader.h</file>
+      <file>$PROJ_DIR$\inc\commonTypes.h</file>
+      <file>$PROJ_DIR$\inc\ThreadingHeader.h</file>
+      <file>$PROJ_DIR$\inc\TimersHeader.h</file>
+      <file>$PROJ_DIR$\src\CommonUISource.c</file>
+      <file>$PROJ_DIR$\src\RawCircularBufferSource.c</file>
+      <file>$PROJ_DIR$\src\ThreadingSource.c</file>
+      <file>$PROJ_DIR$\src\TimersSource.c</file>
+      <file>$PROJ_DIR$\UT\AllTests.cpp</file>
+      <file>$PROJ_DIR$\UT\ThreadingTest.cpp</file>
+      <file>$PROJ_DIR$\UT\TimersTest.cpp</file>
+      <file>$PROJ_DIR$\UT\UT Support\CallbackTestHelper.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\src\MemoryMgmtSource.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 16</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3 10 9 0 8 5 1 52 4 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\CircularBufferSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 17</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 41 3 52 2 6 9 5 0 10 1 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>IARCHIVE</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\CommonUISource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 39 41 2 8 3 52 10 1 5 0 43 42</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41 1 43 8 52 0 10 3 42 39 2 5</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\RawCircularBufferSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 38</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4 8 3 52 10 1 5 0 9 40 41 2</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 41 8 3 40 5 4 52 0 10 1 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\ThreadingSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 29</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 42 41 2 8 3 52 10 1 5 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0 2 10 3 41 8 5 1 52 42</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\TimersSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 32</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 43 42 41 2 8 3 52 10 1 5 0</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 5 2 41 3 43 42 52 0 10 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\AllTests.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\ThreadingTest.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42 41 2 8 3 52 10 1 5 0</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\TimersTest.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43 42 41 2 8 3 52 10 1 5 0</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\UT Support\CallbackTestHelper.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 33</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35</file>
+        </tool>
+      </outputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\CommonUITest.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\AllTests.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\CircularBufferTest.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\CommonUITest_Buttons.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\CommonUITest_Leds.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\MemoryMgmtTest.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\RawCircularBufferTest.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\ThreadingTest.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\TimersTest.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\UT Support\CallbackTestHelper.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\UT Support\UIMocks.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>UT</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\inc\CircularBufferHeader.h</file>
+      <file>$PROJ_DIR$\inc\MemoryMgmtHeader.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\src\MemoryMgmtSource.c</file>
+      <file>$PROJ_DIR$\src\CircularBufferSource.c</file>
+      <file>$PROJ_DIR$\UT\CommonUITest.cpp</file>
+      <file>$PROJ_DIR$\UT\Obj\RawCircularBufferTest.pbi</file>
+      <file>$PROJ_DIR$\UT\Obj\RawCircularBufferTest.o</file>
+      <file>$PROJ_DIR$\UT\Obj\RawCircularBufferSource.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+      <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\iosfwd</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xutility</file>
+      <file>$PROJ_DIR$\UT\Obj\TimersSource.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtgmath.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xiosbase</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\streambuf</file>
+      <file>$TOOLKIT_DIR$\inc\c\time.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xmtx.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xlocinfo</file>
+      <file>$TOOLKIT_DIR$\inc\c\ctime</file>
+      <file>$PROJ_DIR$\UT\Obj\CallbackTestHelper.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$PROJ_DIR$\UT\Obj\CommonUITest.pbi</file>
+      <file>$PROJ_DIR$\UT\Obj\ThreadingSource.pbi</file>
+      <file>$PROJ_DIR$\UT\Obj\MemoryMgmtTest.o</file>
+      <file>$PROJ_DIR$\UT\Obj\MemoryMgmtSource.o</file>
+      <file>$PROJ_DIR$\UT\Obj\CommonUISource.o</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\memory</file>
+      <file>$PROJ_DIR$\UT\Obj\TimersSource.pbi</file>
+      <file>$PROJ_DIR$\UT\Obj\CallbackTestHelper.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\limits.h</file>
+      <file>$PROJ_DIR$\..\cpputest\include\CppUTest\TestHarness.h</file>
+      <file>$PROJ_DIR$\..\cpputest\include\CppUTest\SimpleString.h</file>
+      <file>$PROJ_DIR$\UT\Obj\UIMocks.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\cstdlib</file>
+      <file>$PROJ_DIR$\..\cpputest\Cortex-M0-build\cpputest_lib.a</file>
+      <file>$PROJ_DIR$\UT\Obj\CircularBufferSource.o</file>
+      <file>$PROJ_DIR$\UT\Obj\ThreadingSource.o</file>
+      <file>$PROJ_DIR$\UT\Obj\MemoryMgmtSource.pbi</file>
+      <file>$PROJ_DIR$\UT\Obj\RawCircularBufferTest.__cstat.et</file>
+      <file>$PROJ_DIR$\..\cpputest\include\CppUTest\TestResult.h</file>
+      <file>$PROJ_DIR$\UT\Obj\RawCircularBufferSource.__cstat.et</file>
+      <file>$PROJ_DIR$\UT\Obj\MemoryMgmtTest.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xstring</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtls.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xstddef</file>
+      <file>$PROJ_DIR$\UT\Obj\CircularBufferTest.o</file>
+      <file>$PROJ_DIR$\UT\Exe\Common Modules.out</file>
+      <file>$TOOLKIT_DIR$\inc\c\cstring</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\istream</file>
+      <file>$PROJ_DIR$\UT\Obj\CircularBufferTest.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\wchar.h</file>
+      <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+      <file>$PROJ_DIR$\UT\Obj\CommonUITest.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\clocale</file>
+      <file>$PROJ_DIR$\UT\Obj\UIMocks.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\dlpp6M_tl_nc.a</file>
+      <file>$PROJ_DIR$\UT\Obj\TimersTest.__cstat.et</file>
+      <file>$PROJ_DIR$\UT\Obj\ThreadingSource.__cstat.et</file>
+      <file>$PROJ_DIR$\UT\Obj\TimersSource.__cstat.et</file>
+      <file>$PROJ_DIR$\UT\Obj\CallbackTestHelper.__cstat.et</file>
+      <file>$PROJ_DIR$\UT\Obj\AllTests.__cstat.et</file>
+      <file>$PROJ_DIR$\UT\Obj\CircularBufferSource.__cstat.et</file>
+      <file>$PROJ_DIR$\UT\Obj\CommonUITest.__cstat.et</file>
+      <file>$PROJ_DIR$\UT\Obj\CommonUISource.__cstat.et</file>
+      <file>$PROJ_DIR$\UT\Obj\MemoryMgmtTest.__cstat.et</file>
+      <file>$PROJ_DIR$\UT\Obj\CircularBufferTest.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xmemory</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\exception</file>
+      <file>$PROJ_DIR$\UT\Obj\ThreadingTest.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmath</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\ios</file>
+      <file>$TOOLKIT_DIR$\lib\dl6M_tln.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocaleuse.h</file>
+      <file>$PROJ_DIR$\UT\Obj\CommonUITest_Leds.pbi</file>
+      <file>$PROJ_DIR$\UT\Obj\CommonUITest_Leds.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\climits</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\stdexcept</file>
+      <file>$PROJ_DIR$\UT\Obj\CommonUITest_Buttons.pbi</file>
+      <file>$PROJ_DIR$\UnitTest.icf</file>
+      <file>$TOOLKIT_DIR$\inc\c\ctype.h</file>
+      <file>$PROJ_DIR$\..\cpputest\include\CppUTest\StandardCLibrary.h</file>
+      <file>$PROJ_DIR$\..\cpputest\include\CppUTest\CppUTestConfig.h</file>
+      <file>$PROJ_DIR$\UT\Obj\CircularBufferSource.pbi</file>
+      <file>$PROJ_DIR$\UT\Obj\TimersTest.o</file>
+      <file>$PROJ_DIR$\UT\Obj\AllTests.pbi</file>
+      <file>$PROJ_DIR$\UT\Obj\UIMocks.__cstat.et</file>
+      <file>$PROJ_DIR$\UT\Obj\MemoryMgmtSource.__cstat.et</file>
+      <file>$PROJ_DIR$\..\cpputest\include\CppUTest\UtestMacros.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cstddef</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\new</file>
+      <file>$TOOLKIT_DIR$\inc\c\ymath.h</file>
+      <file>$PROJ_DIR$\UT\Obj\ThreadingTest.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\cstdio</file>
+      <file>$PROJ_DIR$\..\cpputest\include\CppUTest\MemoryLeakDetectorNewMacros.h</file>
+      <file>$PROJ_DIR$\..\cpputest\include\CppUTest\MemoryLeakDetectorMallocMacros.h</file>
+      <file>$PROJ_DIR$\..\cpputest\include\CppUTest\Utest.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\ostream</file>
+      <file>$PROJ_DIR$\UT\Obj\ThreadingTest.__cstat.et</file>
+      <file>$PROJ_DIR$\UT\Obj\AllTests.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\cwchar</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xdebug</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale_c.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\typeinfo</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$PROJ_DIR$\..\cpputest\include\CppUTest\MemoryLeakWarningPlugin.h</file>
+      <file>$PROJ_DIR$\..\cpputest\include\CppUTest\TestFailure.h</file>
+      <file>$PROJ_DIR$\..\cpputest\include\CppUTest\TestPlugin.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cctype</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xlocale</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\utility</file>
+      <file>$PROJ_DIR$\UT\Obj\TimersTest.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale_lconv.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\locale.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\string</file>
+      <file>$PROJ_DIR$\UT\Obj\CommonUISource.pbi</file>
+      <file>$PROJ_DIR$\..\Spirit Module\UT\UT Support\CallbackTestHelper.c</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xlocnum</file>
+      <file>$PROJ_DIR$\UT\Obj\RawCircularBufferSource.o</file>
+      <file>$PROJ_DIR$\inc\CommonUIHeader.h</file>
+      <file>$PROJ_DIR$\inc\RawCircularBufferHeader.h</file>
+      <file>$PROJ_DIR$\inc\commonTypes.h</file>
+      <file>$PROJ_DIR$\inc\ThreadingHeader.h</file>
+      <file>$PROJ_DIR$\inc\TimersHeader.h</file>
+      <file>$PROJ_DIR$\src\CommonUISource.c</file>
+      <file>$PROJ_DIR$\src\RawCircularBufferSource.c</file>
+      <file>$PROJ_DIR$\src\ThreadingSource.c</file>
+      <file>$PROJ_DIR$\src\TimersSource.c</file>
+      <file>$PROJ_DIR$\UT\AllTests.cpp</file>
+      <file>$PROJ_DIR$\UT\CircularBufferTest.cpp</file>
+      <file>$PROJ_DIR$\UT\CommonUITest_Buttons.cpp</file>
+      <file>$PROJ_DIR$\UT\CommonUITest_Leds.cpp</file>
+      <file>$PROJ_DIR$\UT\MemoryMgmtTest.cpp</file>
+      <file>$PROJ_DIR$\UT\RawCircularBufferTest.cpp</file>
+      <file>$PROJ_DIR$\UT\ThreadingTest.cpp</file>
+      <file>$PROJ_DIR$\UT\TimersTest.cpp</file>
+      <file>$PROJ_DIR$\UT\UT Support\CallbackTestHelper.c</file>
+      <file>$PROJ_DIR$\UT\UT Support\CallbackTestHelper.h</file>
+      <file>$PROJ_DIR$\UT\UT Support\UIMocks.c</file>
+      <file>$PROJ_DIR$\UT\UT Support\UIMocks.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\src\MemoryMgmtSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 35</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 99</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 107 94 93 55 8 3 154 10 1 5 0 9 4 7 2</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 154 3 4 8 93 94 55 9 5 0 10 1 2 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\CircularBufferSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 95</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 73</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 107 94 93 55 8 3 154 10 1 5 0 9 4 7 2 6 135</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 3 8 4 154 0 10 9 93 94 55 5 7 6 2 135</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\CommonUITest.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 74</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 107 94 93 55 8 3 154 10 1 5 0 9 44 4 136 135 2 137 133 153 41 108 42 128 60 109 83 131 88 40 82 18 103 23 105 121 117 25 24 123 59 115 31 89 80 56 101 53 79 102 21 124 20 112 62 116 113 28 122 92 78 54 27 85 114 65 127 126 29 26 100 50 119 120 118 106 37</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 102 131 3 8 9 100 25 105 62 40 59 115 80 112 53 126 128 154 133 120 60 117 24 123 56 79 114 4 44 136 41 50 2 88 23 121 89 116 65 101 124 127 93 94 55 5 0 10 1 137 153 135 108 42 119 118 109 83 82 18 103 113 28 31 21 20 122 29 26 92 78 54 85 27 106 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 58</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\Exe\Common Modules.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 91 111 30 36 132 15 47 104 22 96 43 45 17 63 67 19 84</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Spirit Module\UT\UT Support\CallbackTestHelper.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\CommonUISource.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 129</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 75</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 135 154 8 0 10 3 136 137 1 133 2 5</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\RawCircularBufferSource.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 9 135 8 3 134 5 4 154 0 10 1 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\ThreadingSource.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 69</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0 2 10 3 135 8 5 1 154 136</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\TimersSource.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 70</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 5 2 135 3 137 136 154 0 10 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\AllTests.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 97</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 72</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\CircularBufferTest.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 77</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 107 94 93 55 8 3 154 10 1 5 0 9 44 4 7 2 6 135 41 108 42 128 60 109 83 131 88 40 82 18 103 23 105 121 117 25 24 123 59 115 31 89 80 56 101 53 79 102 21 124 20 112 62 116 113 28 122 92 78 54 27 85 114 65 127 126 29 26 100 50 119 120 118 106 37</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3 8 59 40 115 80 112 100 131 25 102 105 62 53 126 128 154 7 120 60 117 24 123 56 79 114 4 44 9 41 2 50 88 23 121 89 116 65 101 124 127 93 94 55 5 0 10 1 6 135 108 42 119 118 109 83 82 18 103 113 28 31 21 20 122 29 26 92 78 54 85 27 106 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\CommonUITest_Buttons.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 90</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 107 94 93 55 8 3 154 10 1 5 0 9 44 4 136 135 2 137 133 153 41 108 42 128 60 109 83 131 88 40 82 18 103 23 105 121 117 25 24 123 59 115 31 89 80 56 101 53 79 102 21 124 20 112 62 116 113 28 122 92 78 54 27 85 114 65 127 126 29 26 100 50 119 120 118 106 37</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 124 3 50 8 9 2 88 23 65 53 126 128 154 133 121 89 116 101 56 114 4 44 136 41 100 120 60 131 25 40 117 24 123 59 115 80 79 102 105 112 62 127 93 94 55 5 0 10 1 137 153 135 108 42 119 118 109 83 82 18 103 113 28 31 21 20 122 29 26 92 78 54 85 27 106 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\CommonUITest_Leds.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 107 94 93 55 8 3 154 10 1 5 0 9 44 4 136 135 2 137 133 153 41 108 42 128 60 109 83 131 88 40 82 18 103 23 105 121 117 25 24 123 59 115 31 89 80 56 101 53 79 102 21 124 20 112 62 116 113 28 122 92 78 54 27 85 114 65 127 126 29 26 100 50 119 120 118 106 37</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 3 9 50 124 41 2 88 23 65 53 126 128 154 133 121 89 116 101 56 114 4 44 136 100 120 60 131 25 40 117 24 123 59 115 80 79 102 105 112 62 127 93 94 55 5 0 10 1 137 153 135 108 42 119 118 109 83 82 18 103 113 28 31 21 20 122 29 26 92 78 54 85 27 106 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\MemoryMgmtTest.cpp</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 76</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 107 94 93 55 8 3 154 10 1 5 0 9 44 4 7 2 41 108 42 128 60 109 83 131 88 40 82 18 103 23 105 121 117 25 24 123 59 115 31 89 80 56 101 53 79 102 21 124 20 112 62 116 113 28 122 92 78 54 27 85 114 65 127 126 29 26 100 50 119 120 118 106 37</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3 8 21 9 42 88 53 128 28 114 4 154 94 118 83 105 59 44 108 119 93 109 82 18 103 113 31 55 20 122 29 120 5 0 10 1 41 100 50 2 60 131 25 40 23 121 117 24 123 89 116 65 115 80 56 101 79 102 124 112 62 92 78 54 85 27 127 126 26 106 37</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\RawCircularBufferTest.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 49</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2 135 8 3 134 5 154 0 10 1</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\ThreadingTest.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 81</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 110</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2 135 8 3 136 5 154 0 10 1 151</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\TimersTest.cpp</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 125</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 135 136 2 3 137 5 154 0 10 1 151</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\UT Support\CallbackTestHelper.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 71</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\UT Support\UIMocks.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 98</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8 2 0 135 133 9 5 10 3 153 154 1 4</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\CircularBufferTest.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\CommonUITest_Buttons.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\MemoryMgmtTest.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>IARCHIVE</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\CircularBufferTest.cpp</name>
+      <tool>C-STAT</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\CommonUITest_Buttons.cpp</name>
+      <tool>C-STAT</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\CommonUITest_Leds.cpp</name>
+      <tool>C-STAT</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\MemoryMgmtTest.cpp</name>
+      <tool>C-STAT</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>UT Lib</name>
+    <outputs>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\inc\CircularBufferHeader.h</file>
+      <file>$PROJ_DIR$\inc\MemoryMgmtHeader.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$PROJ_DIR$\src\MemoryMgmtSource.c</file>
+      <file>$PROJ_DIR$\src\CircularBufferSource.c</file>
+      <file>$PROJ_DIR$\UT\CommonUITest.cpp</file>
+      <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\iosfwd</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xutility</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtgmath.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xiosbase</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\streambuf</file>
+      <file>$TOOLKIT_DIR$\inc\c\time.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xmtx.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xlocinfo</file>
+      <file>$TOOLKIT_DIR$\inc\c\ctime</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\memory</file>
+      <file>$TOOLKIT_DIR$\inc\c\limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cstdlib</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xstring</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtls.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xstddef</file>
+      <file>$TOOLKIT_DIR$\inc\c\cstring</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\istream</file>
+      <file>$TOOLKIT_DIR$\inc\c\wchar.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\clocale</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xmemory</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\exception</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmath</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\ios</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocaleuse.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\climits</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\stdexcept</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+      <file>$PROJ_DIR$\UT Lib\Obj\CommonUISource.pbi</file>
+      <file>$PROJ_DIR$\UT Lib\Obj\CircularBufferSource.pbi</file>
+      <file>$PROJ_DIR$\UT Lib\Obj\CircularBufferSource.o</file>
+      <file>$PROJ_DIR$\UT Lib\Obj\TimersSource.pbi</file>
+      <file>$PROJ_DIR$\UT Lib\Obj\CommonUISource.o</file>
+      <file>$PROJ_DIR$\UT Lib\Obj\ThreadingSource.o</file>
+      <file>$PROJ_DIR$\UT Lib\Exe\Common Modules.a</file>
+      <file>$PROJ_DIR$\..\SPIRIT1 Radio Dev\DevelopmentSpirit\Brad's updates\cpputest\include\CppUTest\TestHarness.h</file>
+      <file>$PROJ_DIR$\UT Lib\Obj\TimersSource.o</file>
+      <file>$PROJ_DIR$\..\SPIRIT1 Radio Dev\DevelopmentSpirit\Brad's updates\cpputest\include\CppUTest\TestResult.h</file>
+      <file>$PROJ_DIR$\..\SPIRIT1 Radio Dev\DevelopmentSpirit\Brad's updates\cpputest\include\CppUTest\MemoryLeakDetectorNewMacros.h</file>
+      <file>$PROJ_DIR$\..\SPIRIT1 Radio Dev\DevelopmentSpirit\Brad's updates\cpputest\include\CppUTest\TestFailure.h</file>
+      <file>$PROJ_DIR$\..\SPIRIT1 Radio Dev\DevelopmentSpirit\Brad's updates\cpputest\include\CppUTest\TestOutput.h</file>
+      <file>$PROJ_DIR$\..\SPIRIT1 Radio Dev\DevelopmentSpirit\Brad's updates\cpputest\include\CppUTest\TestPlugin.h</file>
+      <file>$PROJ_DIR$\..\SPIRIT1 Radio Dev\DevelopmentSpirit\Brad's updates\cpputest\include\CppUTest\MemoryLeakWarningPlugin.h</file>
+      <file>$PROJ_DIR$\..\SPIRIT1 Radio Dev\DevelopmentSpirit\Brad's updates\cpputest\include\CppUTest\Utest.h</file>
+      <file>$PROJ_DIR$\..\SPIRIT1 Radio Dev\DevelopmentSpirit\Brad's updates\cpputest\include\CppUTest\CppUTestConfig.h</file>
+      <file>$PROJ_DIR$\..\SPIRIT1 Radio Dev\DevelopmentSpirit\Brad's updates\cpputest\include\CppUTest\UtestMacros.h</file>
+      <file>$PROJ_DIR$\..\SPIRIT1 Radio Dev\DevelopmentSpirit\Brad's updates\cpputest\include\CppUTest\TestFilter.h</file>
+      <file>$PROJ_DIR$\..\SPIRIT1 Radio Dev\DevelopmentSpirit\Brad's updates\cpputest\include\CppUTest\CommandLineArguments.h</file>
+      <file>$PROJ_DIR$\..\SPIRIT1 Radio Dev\DevelopmentSpirit\Brad's updates\cpputest\include\CppUTest\CommandLineTestRunner.h</file>
+      <file>$PROJ_DIR$\UT Lib\Obj\MemoryMgmtSource.o</file>
+      <file>$PROJ_DIR$\UT Lib\Obj\MemoryMgmtSource.pbi</file>
+      <file>$PROJ_DIR$\UT Lib\Obj\ThreadingSource.pbi</file>
+      <file>$PROJ_DIR$\..\SPIRIT1 Radio Dev\DevelopmentSpirit\Brad's updates\cpputest\include\CppUTest\SimpleString.h</file>
+      <file>$PROJ_DIR$\..\SPIRIT1 Radio Dev\DevelopmentSpirit\Brad's updates\cpputest\include\CppUTest\StandardCLibrary.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ctype.h</file>
+      <file>$PROJ_DIR$\..\cpputest\include\CppUTest\StandardCLibrary.h</file>
+      <file>$PROJ_DIR$\..\cpputest\include\CppUTest\CppUTestConfig.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cstddef</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\new</file>
+      <file>$TOOLKIT_DIR$\inc\c\ymath.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cstdio</file>
+      <file>$PROJ_DIR$\..\cpputest\include\CppUTest\MemoryLeakDetectorMallocMacros.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\ostream</file>
+      <file>$TOOLKIT_DIR$\inc\c\cwchar</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xdebug</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale_c.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\typeinfo</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cctype</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xlocale</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\utility</file>
+      <file>$TOOLKIT_DIR$\inc\c\xlocale_lconv.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\locale.h</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\string</file>
+      <file>$TOOLKIT_DIR$\inc\cpp\xlocnum</file>
+      <file>$PROJ_DIR$\inc\CommonUIHeader.h</file>
+      <file>$PROJ_DIR$\inc\commonTypes.h</file>
+      <file>$PROJ_DIR$\inc\ThreadingHeader.h</file>
+      <file>$PROJ_DIR$\inc\TimersHeader.h</file>
+      <file>$PROJ_DIR$\src\CommonUISource.c</file>
+      <file>$PROJ_DIR$\src\ThreadingSource.c</file>
+      <file>$PROJ_DIR$\src\TimersSource.c</file>
+      <file>$PROJ_DIR$\UT\AllTests.cpp</file>
+      <file>$PROJ_DIR$\UT\CircularBufferTest.cpp</file>
+      <file>$PROJ_DIR$\UT\ThreadingTest.cpp</file>
+      <file>$PROJ_DIR$\UT\TimersTest.cpp</file>
+      <file>$PROJ_DIR$\UT\UT Support\CallbackTestHelper.c</file>
+      <file>$PROJ_DIR$\UT\UT Support\CallbackTestHelper.h</file>
+      <file>$PROJ_DIR$\UT\UT Support\UIMocks.c</file>
+      <file>$PROJ_DIR$\UT\UT Support\UIMocks.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\src\MemoryMgmtSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 78 73 72 30 8 3 109 10 1 5 0 9 4 7</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 8 9 4 5 0 10 3 72 73 30 109 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\CircularBufferSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 78 73 72 30 8 3 109 10 1 5 0 9 4 7 6 95 2</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 109 9 4 3 8 2 72 73 30 5 0 10 1 6 95 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\CommonUITest.cpp</name>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 70 30 8 3 109 10 1 5 0 9 27 4 44 96 95 2 97 94 108 52 60 69 92 33 79 40 93 42 26 39 14 76 17 77 86 85 19 18 88 32 83 24 43 38 31 74 28 37 75 16 89 15 80 34 84 81 22 87 71 36 29 21 41 82 35 91 90 23 20 62 54 56 58 59 55 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>IARCHIVE</name>
+          <file> 51</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\CommonUISource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 78 73 72 30 8 3 109 10 1 5 0 9 4 7 94 95 2 97 96</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 94 4 3 8 109 0 10 9 96 72 73 30 5 7 97 95 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\ThreadingSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 78 73 72 30 8 3 109 10 1 5 0 9 4 96 95 2</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 109 95 3 4 8 72 73 30 9 5 0 10 1 96 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\src\TimersSource.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 78 73 72 30 8 3 109 10 1 5 0 9 4 97 96 95 2</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 95 4 3 8 109 0 10 9 72 73 30 5 2 97 96</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\AllTests.cpp</name>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 70 30 8 3 109 10 1 5 0 9 27 4 44 65 52 60 69 92 33 79 40 93 42 26 39 14 76 17 77 86 85 19 18 88 32 83 24 43 38 31 74 28 37 75 16 89 15 80 34 84 81 22 87 71 36 29 21 41 82 35 91 90 23 20 2 62 54 56 58 59 55 25 57 64 63</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\CircularBufferTest.cpp</name>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 70 30 8 3 109 10 1 5 0 9 27 4 44 6 95 2 52 60 69 92 33 79 40 93 42 26 39 14 76 17 77 86 85 19 18 88 32 83 24 43 38 31 74 28 37 75 16 89 15 80 34 84 81 22 87 71 36 29 21 41 82 35 91 90 23 20 62 54 56 58 59 55 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\ThreadingTest.cpp</name>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 70 30 8 3 109 10 1 5 0 9 27 4 44 96 95 2 106 52 60 69 92 33 79 40 93 42 26 39 14 76 17 77 86 85 19 18 88 32 83 24 43 38 31 74 28 37 75 16 89 15 80 34 84 81 22 87 71 36 29 21 41 82 35 91 90 23 20 62 54 56 58 59 55 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\TimersTest.cpp</name>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 70 30 8 3 109 10 1 5 0 9 27 4 44 97 96 95 2 106 52 60 69 92 33 79 40 93 42 26 39 14 76 17 77 86 85 19 18 88 32 83 24 43 38 31 74 28 37 75 16 89 15 80 34 84 81 22 87 71 36 29 21 41 82 35 91 90 23 20 62 54 56 58 59 55 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\UT Support\CallbackTestHelper.c</name>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 70 30 8 3 109 10 1 5 0 9 4 44</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\UT\UT Support\UIMocks.c</name>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 70 30 8 3 109 10 1 5 0 9 4 44 108 95 2 94</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\CommonUITest.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\AllTests.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\CircularBufferTest.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\ThreadingTest.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\TimersTest.cpp</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\UT Support\CallbackTestHelper.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\UT\UT Support\UIMocks.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>IARCHIVE</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

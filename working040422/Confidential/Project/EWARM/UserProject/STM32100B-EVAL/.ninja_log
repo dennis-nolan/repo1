@@ -1,0 +1,267 @@
+# ninja log v5
+3485	3799	6698340697900790	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCInterfaceClass.o	3ec2892d04f78119
+2076	2219	6698340681703558	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CM2Module/CM2PortsSource.o	be85b641c71766b0
+2491	2773	6698340686215729	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CM2Module/CM2SecuritySource.o	214d47a9d4b7676d
+2185	2467	6698340684000638	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CM2Module/CM2RangeTestSource.o	2e5c54cdcb00ba57
+6192	6483	6698340724707445	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/PhysicalLayerCommunication_Class.o	c7bacc27bb820443
+4914	5218	6698340711875462	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_flash.o	45d4119f79a657e5
+3051	3283	6698340692140024	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/SpiritDriver/SpiritTx.o	5b3fe8d4cd357e33
+1688	2322	6698340683097726	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/spiritInterface.o	93da49b9b3d43bca
+328	723	6698340667104399	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/config.o	88fbccb484a037f4
+4567	4895	6698340708608415	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_rtc.o	6a67d3ec8fe20d14
+2	563	6698340665080950	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/appTestSupport.o	69e23e2f3f267438
+6136	6545	6698340724832593	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/DAC_UserInterfaceClass.o	2d1a0e6b1ca4d732
+2887	3183	6698340691642216	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/CMSIS/system_stm32f10x.o	208aba12be298e2b
+3546	3900	6698340697988805	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_dac.o	4e1baeed2d28b485
+843	879	6702855302260255	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+911	1272	6698340672596054	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/motor.o	4a6a83523e34cdb5
+5031	5367	6698340713430571	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_usart.o	70cb8147f5446f00
+44	305	6698340662860780	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/appProductionInfo.o	b1f64174b2cab61d
+3619	3853	6698340698148729	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_dma.o	a8e26bbe9de46909
+93	446	6698340664370412	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/appMotorRamp.o	aa00aea520a40b87
+584	943	6698340668600557	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/driverButtonPsuedo.o	ffef6913dbfcf8c2
+1218	1830	6698340677816136	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/main.o	c3e43ef95c27b859
+526	887	6698340668196524	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/driverFlash.o	7f2fff21c088c0f7
+744	1195	6698340671854175	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/new_beep.o	4eb05fec0d9dc8a3
+467	837	6698340668196524	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/driverMagSensor.o	f0a7c319618532dc
+130	502	6698340664460030	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/beep.o	87e73cee68c22fe
+4151	4456	6698340704447286	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_fsmc.o	ce9ec748c9e7e332
+3105	3235	6698340692140024	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CommonModule/TimersSource.o	f3e533cfeb3f0419
+858	1329	6698340672720771	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/motor_braking.o	c9f844c9f05fe652
+2997	3462	6698340694486378	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_adc.o	5adb0f1016df96a
+5390	5694	6698340716768474	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/DACSPI_UserInterfaceClass.o	ab531a61b992e428
+964	1387	6698340673607402	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/SDK_EVAL_Spirit_Spi_Driver.o	6eea6b5d332e7504
+1406	1773	6698340677641425	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/stm32f10x_MC_it_original.o	4761bd43bda65817
+1291	1612	6698340675958093	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/Timebase.o	43c553c59db0accb
+3820	4131	6698340701006503	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_cec.o	daab601cb11a6ed3
+1350	1669	6698340676434341	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/UITask.o	189bcc226d56b4c6
+1631	2056	6698340680346224	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/stm32f10x_it.o	4384bd0492ac0bdc
+1956	2265	6698340681703558	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CM2Module/CM2CoreTypesSource.o	897c744231fb8844
+1795	1936	6698340679219762	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CM2Module/CM2FirmwareUpdateSource.o	f36e2d49d85ba695
+2426	2667	6698340686084670	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CommonModule/ThreadingSource.o	4202f556600f060d
+2022	2154	6698340681367714	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CM2Module/CM2PairingTableModeSource.o	76b8208fc233b49b
+2542	2729	6698340686723238	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CM2Module/CM2RoutingSource.o	aabd5e0f021145a5
+1849	2003	6698340679936127	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CM2Module/CM2CoreSource.o	8d8e0df0906f30d7
+2241	2400	6698340683870456	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CommonModule/RandomSource.o	ee20f897ae489a3d
+2345	2620	6698340686084670	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CommonModule/RawCircularBufferSource.o	a33ff83dbd2a2247
+2286	2519	6698340684305032	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CommonModule/CommonUISource.o	779fd3ce0dd6a1b3
+2794	2869	6698340688635751	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/CMSIS/core_cm3.o	1e9e2750e4799fc9
+2641	3030	6698340689801280	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/misc.o	b0bc15cd5c5b2aba
+2691	2979	6698340689636496	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_bkp.o	f71e02d4935250cb
+3306	3597	6698340695895426	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/SpiritDriver/JL_SpiritDriver.o	2c036a67c6f30774
+4398	4783	6698340707707625	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_spi.o	6264c98bd327da73
+2750	3086	6698340690593652	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_can.o	42ba44bc557cbda
+3257	3524	6698340694746401	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTuningClass.o	918a00b1b41023f6
+3874	4180	6698340700966619	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_exti.o	d75d3cba846068c0
+4200	4543	6698340705301428	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_rcc.o	a032beadb40fe8a7
+5	492	6702855298302749	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+4098	4374	6698340703646730	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_dbgmcu.o	cbe1d4fbfe2c6ac
+3923	4257	6698340702505701	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_crc.o	69a39530d2577291
+4801	5122	6698340711145886	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_iwdg.o	d6a23e052e2c4e63
+5717	6067	6698340720544015	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/STM32_EVAL/stm32_eval.o	5d18c03420b31cdd
+4626	5010	6698340709916975	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_gpio.o	6d12944f416a6f3d
+4857	5164	6698340711150862	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_pwr.o	f302ddfdb4c08b41
+4275	4603	6698340705743758	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_sdio.o	27d0f4cc17cacea3
+4476	4835	6698340708001154	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_i2c.o	bb2bd7568d1cd05a
+5239	5464	6698340714530279	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_wwdg.o	9c7c8a22c0ea5019
+6088	6362	6698340723438642	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/LCDManager_UserInterfaceClass.o	87aa998b8e425dae
+5839	6171	6698340720667618	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/DACRCTIMER_UserInterfaceClass.o	931a0373039aa758
+5141	5583	6698340715700395	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_tim.o	1ffecf997573be0f
+5781	6114	6698340720544015	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/FrameCommunicationProtocolClass.o	89ed02904c2d50f5
+5184	5819	6698340717800998	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/LCDVintage_UserInterfaceClass.o	c160258aab83e0ad
+5603	6229	6698340722069180	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/STM32_EVAL/stm32100b_eval_lcd.o	6361901fb403b760
+6507	6674	6698340726559724	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/UIIRQHandlerClass.o	e273977709bf5beb
+5496	5759	6698340717252142	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/DACSPIAD7303_UserInterfaceClass.o	ad434690eac740a1
+6251	6599	6698340725302640	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/MotorControlProtocolClass.o	e40e5866d0185a32
+6386	6751	6698340727389023	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/UnidirectionalFastCom_UserInterfaceClass.o	be410821a7633ffa
+6429	6497	6697664054708086	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/EWARMv5/startup_stm32f10x_md_vl.o	bfbc04c94c5e0675
+6566	6834	6698340728181333	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/USART_PhysicalLayerCommunication_Class.o	97953c1f292411af
+6622	7014	6698340730013863	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/UserInterfaceClass.o	cea7a9f0eaf967e4
+512	771	6702855300990972	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+11	3446	6703530641992125	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+3465	4177	6703530649535795	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+4282	4394	6703530652853465	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+10	2747	6703535570589924	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+2767	3270	6703535576384286	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+3366	3394	6703535578608654	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+11	1946	6703535977662693	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+1962	2473	6703535983287079	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+2566	2599	6703535985606295	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+10	1918	6703536810382492	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+1935	2464	6703536815971081	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+2560	2594	6703536818306025	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+12	1797	6703537854514825	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+1815	2315	6703537859984606	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+2396	2427	6703537862037973	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+10	2614	6703539706110865	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+2635	3144	6703539711934511	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+3235	3266	6703539714186892	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+10	1987	6703541108560123	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+2004	2488	6703541114028305	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+2576	2606	6703541116054670	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+12	2592	6703543124101110	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+2612	3135	6703543129906309	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+3216	3248	6703543132005086	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+11	1956	6703543866792546	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+1975	2508	6703543872552606	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+2603	2642	6703543874916592	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+9	2614	6703552202061971	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+2634	3154	6703552207878220	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+3242	3278	6703552210083938	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+10	1876	6703552511798303	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+1895	2424	6703552517482850	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+2516	2552	6703552519804314	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+9	1969	6703558883000807	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+1985	2468	6703558888427123	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+2560	2598	6703558890529730	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+9	1926	6703560395198288	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+1945	2455	6703560400643507	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+2561	2591	6703560403000859	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+11	2562	6703562752897072	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+2581	3089	6703562758535644	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+3180	3219	6703562760791711	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+10	1929	6703565349634235	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+1945	2421	6703565354860823	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+2511	2550	6703565357099159	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+9	2492	6703566054369839	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+2512	3018	6703566059831200	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+3112	3156	6703566061975578	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+11	1887	6703567149528092	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+1905	2416	6703567154996977	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+2510	2549	6703567157232426	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+10	1811	6703568223780399	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+1831	2306	6703568228936271	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+2408	2444	6703568231165932	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+11	1812	6703568464708238	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+1831	2305	6703568470055281	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+2393	2427	6703568472069990	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+10	2518	6703569510319463	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+2537	3030	6703569515919453	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+3125	3157	6703569518039626	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+10	1813	6703569980456835	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	c06058957dea1dcd
+1832	2335	6703569985929043	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	623ddd51bf1238dd
+2429	2460	6703569988086533	C:/Users/denni/Desktop/JL Marine March of 22/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	bf7fd749b4e9836b
+27	2122	6703575726661744	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CM2Module/CM2PairingTableModeSource.o	e584ba972cf03887
+43	2684	6703575732105525	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/stm32f10x_it.o	cbf3b65ab6295aec
+59	2782	6703575732901156	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/motor.o	a630c094725e06cb
+4	2946	6703575734501199	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/SDK_EVAL_Spirit_Spi_Driver.o	888a28f857e6f307
+2144	3318	6703575738037443	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/motor_braking.o	dd46e469c8e70aa6
+2825	3519	6703575740430499	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CM2Module/CM2FirmwareUpdateSource.o	1b53fee5ed803297
+2714	3674	6703575742037704	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/UITask.o	524a70c162967549
+3572	4177	6703575747162873	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/Timebase.o	8894cee811564ff
+3380	4242	6703575747162873	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/stm32f10x_MC_it_original.o	1e861ba885eee8f9
+3000	4433	6703575749161816	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/new_beep.o	a064f0e5397db334
+4288	4998	6703575755603676	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CM2Module/CM2CoreTypesSource.o	f92d89acf3591a57
+4471	5381	6703575758976019	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/driverMagSensor.o	6c331396f099f9ba
+4224	5440	6703575759655369	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CM2Module/CM2CoreSource.o	3dd4da31a19cb120
+5490	5687	6703575763202022	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/EWARMv5/startup_stm32f10x_md_vl.o	3f38c143e4555acd
+5050	5745	6703575762720167	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/driverButtonPsuedo.o	387ffaed82d1c773
+3704	6499	6703575770079262	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/spiritInterface.o	64709912baa43a82
+5764	6641	6703575771172859	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/beep.o	e6bce2457048aa6c
+5711	6795	6703575772583168	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/appMotorRamp.o	e654124b23505f49
+6536	6995	6703575775556170	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/appProductionInfo.o	a3af46bea72b2c19
+5414	7254	6703575777622880	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/main.o	1a9f45a40224a77b
+6840	7651	6703575781731261	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/config.o	705de73c50ecea71
+7294	7729	6703575782704824	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CommonModule/ThreadingSource.o	dd30d3b993042549
+7040	7892	6703575783348863	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/driverFlash.o	8cd404bf7088927
+7772	8229	6703575787869414	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CM2Module/CM2SecuritySource.o	b347b00daf140af4
+7926	8463	6703575790266225	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CommonModule/RawCircularBufferSource.o	30b1514dbcb5f2c4
+7714	8521	6703575790734910	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CM2Module/CM2RoutingSource.o	fd84d96ac894c209
+6710	8640	6703575790734910	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Application/appTestSupport.o	b9ef277d78ab1d1d
+8272	8879	6703575794263665	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CM2Module/CM2PortsSource.o	75f58443b9455b05
+8499	8953	6703575795004708	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CM2Module/CM2RangeTestSource.o	cb8960d456afbf20
+8674	9068	6703575795160227	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CommonModule/RandomSource.o	68a01a071eade605
+8549	9199	6703575797514273	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CommonModule/CommonUISource.o	565d18d16fb1ba62
+8983	9325	6703575798992388	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/CMSIS/core_cm3.o	a26f2051a381119d
+9226	9785	6703575803469111	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/misc.o	3856a47fc44a4acd
+9098	9830	6703575803825034	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/CMSIS/system_stm32f10x.o	66dcc5c3a4acb60
+9355	10299	6703575807783483	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCInterfaceClass.o	e7090d95c509e842
+9815	10735	6703575812822234	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/CommonModule/TimersSource.o	f62836066412ffb0
+8935	10885	6703575814032352	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/SpiritDriver/JL_SpiritDriver.o	36d25649d47e0fd2
+10346	10936	6703575814355091	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTuningClass.o	832aa7b7b4471b33
+10773	11395	6703575819172402	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/SpiritDriver/SpiritTx.o	ecdd74f98aaf7017
+10917	11468	6703575819953563	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_crc.o	e40bda0a9938829b
+10976	11582	6703575820480829	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_bkp.o	7cab6f66b05235dc
+11502	12123	6703575826319945	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_cec.o	e4d97c0c3b5fb68c
+11428	12442	6703575829700552	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_adc.o	e86f23a38bb68237
+12158	12756	6703575832998055	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_dma.o	9d36f91242fb5d89
+9867	12810	6703575832685581	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	8276ce57c732164b
+11618	12990	6703575834729744	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_can.o	a385a2d9f1bf320c
+12844	13381	6703575839360311	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_dbgmcu.o	693ec33cb26b6744
+12475	13549	6703575840648390	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_flash.o	72f8a5937d794d32
+12791	13673	6703575841734058	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_dac.o	4902bff5381c31de
+13038	13731	6703575842003662	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_exti.o	2c47ad016a5f322f
+13420	13952	6703575844642138	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_iwdg.o	bd0a8cea46ccb442
+13989	14612	6703575851527891	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_pwr.o	b98c4b0a25017bc6
+13713	14663	6703575851371661	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_gpio.o	c99b962a4bd108bd
+13582	14712	6703575851840344	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_i2c.o	cbaeed1775dbcf41
+13772	14955	6703575855038678	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_fsmc.o	123da1641dd67f47
+14697	15472	6703575860059835	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_spi.o	5fa10800b6382a1d
+14645	15615	6703575860997223	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_rcc.o	92f07fb69e75d844
+14743	15667	6703575861095720	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_sdio.o	3d106b448031386f
+15505	16150	6703575866496558	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_rtc.o	44d7c3b7d356fce0
+15700	16585	6703575871222959	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_usart.o	cf7ea17f1bce9406
+16193	16745	6703575872699201	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/DAC_UserInterfaceClass.o	985b086010206389
+15001	17058	6703575875645642	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_tim.o	cfc7330b2b7396dc
+16627	17327	6703575878537265	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/DACSPI_UserInterfaceClass.o	120f842d621bc32a
+16792	17408	6703575879318423	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/DACRCTIMER_UserInterfaceClass.o	8561d59bb1fc0781
+17097	17770	6703575883261892	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/StdPeriph_Driver/stm32f10x_wwdg.o	8c0e586ee876e602
+17813	17970	6703575885442256	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/UIIRQHandlerClass.o	3810f516628d8a24
+17450	18031	6703575885286021	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/PhysicalLayerCommunication_Class.o	fc006c7e041f0cd1
+17371	18291	6703575888113670	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/STM32_EVAL/stm32_eval.o	a99f63a366393b85
+18071	18769	6703575892580697	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/UnidirectionalFastCom_UserInterfaceClass.o	58e8cfacc6242eff
+18323	18959	6703575895007451	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/DACSPIAD7303_UserInterfaceClass.o	6f5da0731c5fcda0
+18010	19236	6703575897199606	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/MotorControlProtocolClass.o	565f24a46ad15a5
+15651	19324	6703575897043210	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Std project template/STM32_EVAL/stm32100b_eval_lcd.o	557dc2bba71e642a
+19000	19756	6703575903024168	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/FrameCommunicationProtocolClass.o	7cfae2c501a7306
+19281	19905	6703575903955586	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/LCDManager_UserInterfaceClass.o	d8ea732c7fbe3972
+19375	20017	6703575905337602	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/USART_PhysicalLayerCommunication_Class.o	c25e070b58f498b2
+18805	21401	6703575918971230	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/LCDVintage_UserInterfaceClass.o	1bfc510e8e477e32
+19789	21577	6703575921010213	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/User interface/UI Library/src/UserInterfaceClass.o	12dc7ab41ee2e463
+21608	22133	6703575926633867	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	9064b642e65ea77b
+22206	22237	6703575928664917	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	b83403cc9f73457f
+9	1807	6703578139231152	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	8276ce57c732164b
+1828	2308	6703578144427326	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	9064b642e65ea77b
+2404	2436	6703578146671450	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	b83403cc9f73457f
+9	2638	6703581928624265	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	8276ce57c732164b
+2654	3146	6703581934280716	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	9064b642e65ea77b
+3223	3260	6703581936303537	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	b83403cc9f73457f
+10	1953	6703582920230877	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	8276ce57c732164b
+1969	2478	6703582925698846	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	9064b642e65ea77b
+2562	2596	6703582927919559	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	b83403cc9f73457f
+10	1802	6703584856805392	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	8276ce57c732164b
+1821	2302	6703584861961182	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	9064b642e65ea77b
+2399	2442	6703584864200129	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	b83403cc9f73457f
+9	2354	6703586550442845	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	8276ce57c732164b
+2374	2895	6703586556217031	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	9064b642e65ea77b
+2974	3006	6703586558315190	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	b83403cc9f73457f
+9	2353	6703588434923009	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	8276ce57c732164b
+2370	2895	6703588440891411	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	9064b642e65ea77b
+2981	3021	6703588443043827	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	b83403cc9f73457f
+10	1952	6703589092651531	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	8276ce57c732164b
+1969	2495	6703589098182782	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	9064b642e65ea77b
+2596	2633	6703589100607914	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	b83403cc9f73457f
+11	2588	6703640458502849	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	8276ce57c732164b
+2606	3126	6703640464283549	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	9064b642e65ea77b
+3211	3242	6703640466325608	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	b83403cc9f73457f
+11	1886	6703640661570641	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	8276ce57c732164b
+1903	2385	6703640667039469	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	9064b642e65ea77b
+2468	2504	6703640669038832	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	b83403cc9f73457f
+10	1936	6703642079254032	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	8276ce57c732164b
+1952	2463	6703642084762076	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	9064b642e65ea77b
+2550	2580	6703642086817715	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	b83403cc9f73457f
+10	2012	6703642881923635	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	8276ce57c732164b
+2028	2571	6703642887723257	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	9064b642e65ea77b
+2667	2697	6703642890042119	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	b83403cc9f73457f
+11	1911	6703643146950996	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	8276ce57c732164b
+1929	2406	6703643152109077	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	9064b642e65ea77b
+2488	2517	6703643154163098	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	b83403cc9f73457f
+9	2664	6703644499362331	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	8276ce57c732164b
+2680	3155	6703644504776990	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	9064b642e65ea77b
+3240	3275	6703644506856057	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	b83403cc9f73457f
+10	2094	6703644856822051	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	8276ce57c732164b
+2110	2632	6703644862525745	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	9064b642e65ea77b
+2727	2767	6703644864849197	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	b83403cc9f73457f
+10	2672	6704340658500189	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Obj/Motor control/MC Application/src/MCTasks.o	8276ce57c732164b
+2688	3215	6704340664272175	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/STM32F10x_UserProject.out	9064b642e65ea77b
+3299	3330	6704340666412683	C:/Users/denni/Desktop/fastcal/code/working/Confidential/Project/EWARM/UserProject/STM32100B-EVAL/Exe/sw053 Avenger-xx_xx.bin	b83403cc9f73457f

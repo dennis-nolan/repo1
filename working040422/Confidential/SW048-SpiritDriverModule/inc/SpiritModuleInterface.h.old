@@ -1,0 +1,32 @@
+/* Define to prevent recursive inclusion -------------------------------------*/
+#ifndef SPIRITINTERFACE_HEADER
+#define SPIRITINTERFACE_HEADER
+
+//#include "SpiritDriverHeader.h"
+#include "CommonTypes.h"
+
+
+/* These following functions must be implemented in order to use this module */
+
+// Turns off Spirit, delays, turns on Spirit, delays
+void SpiritReset(uint8_t port);
+
+// Disables the LEDs (and other non-essentials) while transmitting
+//   Non-battery devices can just return, but battery devices must at least disable LEDs
+void TxBatterySaver(bool enable);
+
+// This must be implemented, but the prototype is elsewhere.
+//void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin);
+/*
+	void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
+	{
+		if(GPIO_Pin==SPIRIT_INTERRUPT_PIN)
+			SPIRIT_ISR();
+	}
+*/
+
+// Delays for a specified number of milliseconds. Normally implemented with Hal_Delay
+//void DelayMS(uint32_t delay);
+
+// close recursive include ifdef
+#endif
